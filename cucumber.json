@@ -1,0 +1,6 @@
+{
+  "steps": [".tmp/**/*.js"],
+  "support": ["support/*.js"],
+  "format": "json:.tmp/OAuth2API/cucumber-test-results.json",
+  "tags" : ["@AshokTest"]
+}
